@@ -1,5 +1,7 @@
 __pycache__/
 checkpoints/
+!checkpoints/README.md
 data/
+!data/README.md
 .DS_Store
 .idea/
